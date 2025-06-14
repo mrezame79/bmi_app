@@ -1,5 +1,5 @@
  
-import 'package:bmi_app/home_page/consts/colrs.dart';
+import 'package:bmi_app/consts/colrs.dart';
 import 'package:flutter/material.dart';
 
 PreferredSizeWidget getappbarr() {
